@@ -1,6 +1,6 @@
 # Анализ факторов конверсии в интернет-магазине
 
-[![Открыть в Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Andrles/Data_Analysts/blob/main/user_activity_analysis.ipynb)
+[![Открыть в Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Andrles/conversion-analysis/blob/main/user_activity_analysis.ipynb)
 
 ## Цель проекта
 
@@ -43,7 +43,7 @@ Python, pandas, matplotlib, seaborn, Jupyter Notebook.
 ## Структура проекта
 
 ```text
-Data_Analysts/
+conversion-analysis/
 ├── user_activity_analysis.ipynb  # интерактивный анализ для Colab
 ├── analysis.py                   # версия для локального запуска
 ├── requirements.txt
